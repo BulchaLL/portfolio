@@ -9,7 +9,7 @@ body{
         --second-color: #00020c;
         --gry-color: #4e506413;
          --gry2-color: #4e50641c;
-        --text-color: #b8d1f7;
+        --text-color: white;
         --h1-font: 2.0rem;
         --h2-font: 1.2rem;
         --lebel-font: 1rem;
@@ -24,7 +24,7 @@ section,.header-nav{
     margin-bottom: 80px;
 }
 .hero-container{
-    background-color: #00020c;
+    background-color: #0b1000;
 }
 header{
     position: sticky;
